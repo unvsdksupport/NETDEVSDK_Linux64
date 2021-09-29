@@ -1,0 +1,7 @@
+目录结构：
+doc目录下是SDK及部分demo使用手册；
+include目录下是SDK接口头文件；
+lib目录下是共享库文件；
+ADUDemo是解码器示例程序；
+IntelligentDemo是对接人脸、车牌等智能功能示例程序；
+QtCode是基础功能示例程序，如实况、回放、云台控制、录像下载等。
